@@ -1,4 +1,4 @@
-Notebooks to reproduce the results of the study "Toward understanding parametric controls on runoff sensitivity to climate in the community land model: A case study over the Colorado River headwaters".
+Notebooks to reproduce the results of the study "**Toward understanding parametric controls on runoff sensitivity to climate in the community land model: A case study over the Colorado River headwaters**".
 
 Associate datasets are available via Zenodo ([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14983464.svg)](https://doi.org/10.5281/zenodo.14983464)). For questions about methods, simulation setup, or outputs, please contact Ahmed Elkouk (elkoukah@msu.edu) and Yadu Pokhrel (ypokhrel@msu.edu).
 
